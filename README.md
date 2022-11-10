@@ -1,4 +1,4 @@
-# Projeto Mongodb Commerce 
+# Projeto Mongodb Commerce :sandwich:
 
  ## Requisitos :robot:
 
@@ -35,6 +35,7 @@
 - [x] 31 - Retorne o nome dos sanduíches em que o número de curtidas é maior que o número de sanduíches vendidos
 - [x] 32 - Retorne o nome e a quantidade de vendas (vendidos) dos sanduíches em que o número de vendas é múltiplo de 5
 
-## Requisitos Aprovados 
-<img src="requisitos-aprovados.jpg" />
+## Requisitos Aprovados :medal_military:
+
+<img src="requisitos-aprovados.jpg" width="400" heigth= "800" />
 
